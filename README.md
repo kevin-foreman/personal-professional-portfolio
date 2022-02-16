@@ -31,4 +31,4 @@ To launch the page click on the link provided below
 Link to deployed location:
 https://kevin-foreman.github.io/weekly-challenge1-code-refactor/
 
-![screenshot](./screenshot-of-page.png)
+![screenshot](./portfolio-screenshot.png)
