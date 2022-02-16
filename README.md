@@ -1,1 +1,7 @@
-# week2-portfolio
+# My Portfolio
+
+## Table of Contents
+About Me
+Work
+Contact Me
+My Resume
