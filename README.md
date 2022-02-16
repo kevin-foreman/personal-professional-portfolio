@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## Table of Contents
-About Me
-Work
-Contact Me
-My Resume
+### About Me
+### Work
+### Contact Me
+### My Resume
