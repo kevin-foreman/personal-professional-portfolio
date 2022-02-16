@@ -38,6 +38,9 @@ p {
 .section {
   margin-bottom: 155px;
   position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
 }
 
 .descriptive-text {
@@ -51,9 +54,8 @@ p {
 }
 
 .nav {
-  position: absolute;
-  right: -420px;
-  top: 45px;
+  position: relative;
+  right: -800;
 }
 
 .nav > ul > li {
